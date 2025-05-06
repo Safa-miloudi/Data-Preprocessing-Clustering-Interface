@@ -1,4 +1,4 @@
-# 📊 Data Preprocessing & Clustering Interface (TP FD)
+# 📊 Data Preprocessing & Clustering Interface 
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
