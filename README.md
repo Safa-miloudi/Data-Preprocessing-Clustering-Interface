@@ -1,4 +1,4 @@
-# 📊 Data Preprocessing & Clustering Interface 
+#  Data Preprocessing & Clustering Interface 
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 Overview
+##  Overview
 
 This project provides an intuitive web interface for:
 - **Loading & Exploring Data** (CSV or synthetic datasets)
@@ -19,24 +19,24 @@ Designed for data enthusiasts, students, and researchers to experiment with clus
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
 ### **Data Preprocessing**
-- 🧹 Handle missing/invalid values (mean/median/mode replacement)
-- 🔢 Interactive encoding of non-numeric columns
-- ⚖️ Normalization (Min-Max, Z-Score)
-- 📈 Visualizations: Boxplots, Scatter Plots, Pair Plots
+-  Handle missing/invalid values (mean/median/mode replacement)
+-  Interactive encoding of non-numeric columns
+-  Normalization (Min-Max, Z-Score)
+-  Visualizations: Boxplots, Scatter Plots, Pair Plots
 
 ### **Clustering**
-- 🔍 Algorithms: K-Means, DBSCAN, AGNES, DIANA, K-Medoids
-- 📉 Elbow Method for optimal cluster selection
-- 🌟 Metrics: Silhouette Score, Intra/Inter-cluster distances
-- 🎨 2D/3D PCA visualization with cluster centers
+-  Algorithms: K-Means, DBSCAN, AGNES, DIANA, K-Medoids
+-  Elbow Method for optimal cluster selection
+-  Metrics: Silhouette Score, Intra/Inter-cluster distances
+-  2D/3D PCA visualization with cluster centers
 
 ### **Workflow**
-- 📥 Download preprocessed data at every stage
-- 📚 Results history for algorithm comparison
-- 🖥️ Responsive Streamlit UI with real-time updates
+-  Download preprocessed data at every stage
+-  Results history for algorithm comparison
+-  Responsive Streamlit UI with real-time updates
 
 ---
 
